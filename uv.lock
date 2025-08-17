@@ -437,10 +437,16 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "crewai", extra = ["tools"] },
+    { name = "pydantic" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "crewai", extras = ["tools"], specifier = ">=0.159.0" }]
+requires-dist = [
+    { name = "crewai", extras = ["tools"], specifier = ">=0.159.0" },
+    { name = "pydantic", specifier = ">=2.11.7" },
+    { name = "python-dotenv", specifier = ">=1.0.0" },
+]
 
 [[package]]
 name = "crewai"

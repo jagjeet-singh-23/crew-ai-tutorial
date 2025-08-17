@@ -1,0 +1,28 @@
+[2025-08-17 14:38:35] [INFO] [EmailAgent] [base_agent.py:34] - Agent EmailAgent response: Subject: Meeting Tomorrow: [Brief Topic/Agenda if known]
+
+Hi John,
+
+Just a quick reminder about our meeting scheduled for tomorrow, [Day of the week, e.g., Wednesday].
+
+Here are the details:
+
+*   **Date:** Tomorrow, [Month Day, Year]
+*   **Time:** [Start Time, e.g., 10:00 AM] [Time Zone, e.g., EST]
+*   **Location:**
+    *   **Option 1 (Physical):** [Room Name/Office Location, e.g., Conference Room A, 3rd Floor]
+    *   **Option 2 (Virtual):** [Link to Video Conference, e.g., Zoom/Teams link: https://meet.example.com/johndoe/meetingID]
+    *   **(If Virtual) Dial-in (Optional):** [Phone Number] / [Conference ID]
+
+The primary focus will be on [brief topic/agenda, e.g., reviewing Q3 performance / planning for Project X / discussing budget allocations].
+
+Please come prepared to discuss [any specific points or bring specific documents].
+
+Let me know if you have any questions or if anything has changed on your end.
+
+Looking forward to our discussion!
+
+Best regards,
+
+[Your Name]
+[Your Title/Department, Optional]
+[Your Phone Number, Optional]
